@@ -36,4 +36,4 @@ This project demonstrates an automated plant watering system using an ESP32 micr
 Refer to the [troubleshooting guide](troubleshooting.md) for common issues and their solutions.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0.
